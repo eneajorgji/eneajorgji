@@ -1,8 +1,10 @@
 ## Hi there 👋
 ### I'm Enea, I love 🐍Python programming language and Alpacas 🦙
 
-- 🔭 I’m currently working as a Business and Techology Delivery Consultant. I work with SQL, PL/SQL & Python.
-- 🌱 I’m currently improving Python, Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, Django and Vue.js.
+- I’m currently working as a Business and Techology Delivery Consultant. I work with SQL, PL/SQL & Python.
+- I’m currently improving Python, Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, Django.
+- My goal is to become a Data Scientist.
+- I studing Electronics and Computer Engineering, 3rd year, at Warsaw University of Technology.
 
 ### Here you can find out about me   
 👨‍💻 😀 🔤Hello World!🔤❗️
