@@ -13,5 +13,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eneajorgji&include_all_commits&show_icon=true&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eneajorgji)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eneajorgji&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
